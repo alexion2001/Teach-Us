@@ -1,3 +1,4 @@
+ - Proiect de echipa -
 # Teach-Us
 Aplicația web Teach Us este o platforma de meditații care facilitează asocierea dintre 
 profesori și studenți pe baza unor preferințe. 
